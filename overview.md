@@ -31,7 +31,7 @@ Azure Data Community is a global network of local user groups that are officiall
 
 There are Azure Tech Groups all over the world. If you’d like help finding a group in your region, visit [Azure Data Community](https://aka.ms/datacommunity) to find a group near you.
 
-:::image type="content" source="images/ATGmap.png" alt-text="Map of Data Community":::
+:::image type="content" source="ADCmap.png" alt-text="Map of Data Community":::
 
 ### Join Azure Data Community Network of User Groups
 
