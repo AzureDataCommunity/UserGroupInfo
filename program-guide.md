@@ -89,7 +89,7 @@ A code of conduct should be displayed on your group landing page or website. If 
 
 ### Fee-free experience
 
-To lower the barrier to entry and ensure access is available to as many participants as possible, Azure Tech Groups program members should not charge an admission fee for meetings. However, certain pass-through costs are allowed (i.e. venue, beverage, and other hosting fees).
+To lower the barrier to entry and ensure access is available to as many participants as possible, Azure Data Community program members should not charge an admission fee for meetings. However, certain pass-through costs are allowed (i.e. venue, beverage, and other hosting fees).
 
 ### Meeting cadence
 
@@ -102,4 +102,4 @@ Admission into the Azure Tech Groups program requires a simple application proce
 
 ## Leaving the program
 
-If your group no longer wants to be part of Azure Tech Groups, we would like to hear from you. Group leaders should contact the Azure Tech Groups team at azure-tech-groups@microsoft.com.
+If your group no longer wants to be part of Azure Data Community Network, we would like to hear from you. Group leaders should contact the Azure Data Community team at ms-data@microsoft.com.
