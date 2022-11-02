@@ -45,7 +45,7 @@ All group must adhere to Microsoft’s Trademark and Brand guidelines, when usin
 
 #### How do I remove a group from the program?
 
-If you would like to remove your group from the Azure Data Community program, you can initiate that process by emailing ms-datas@microsoft.com. By withdrawing from the program, all program benefits and communications for your group will be terminated.
+If you would like to remove your group from the Azure Data Community program, you can initiate that process by emailing ms-data@microsoft.com. By withdrawing from the program, all program benefits and communications for your group will be terminated.
 
 ## Group Information 
 
