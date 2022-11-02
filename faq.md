@@ -33,7 +33,7 @@ You may stop being the group leader, or may make leadership changes at any time 
 
 #### How do I communicate leadership changes for my group?
 
-If you or your co-leader is leaving your group, but the group would like to remain part of the Azure Tech Groups program, email azure-tech-groups@microsoft.com.
+If you or your co-leader is leaving your group, but the group would like to remain part of the Azure Tech Groups program, email ms-data@microsoft.com.
 Read more about leadership changes in the [program guide](program-guide.md#leadership-changes).
 
 #### May I charge a fee to members?
@@ -46,10 +46,6 @@ All group must adhere to Microsoft’s Trademark and Brand guidelines, when usin
 #### How do I remove a group from the program?
 
 If you would like to remove your group from the Azure Data Community program, you can initiate that process by emailing ms-datas@microsoft.com. By withdrawing from the program, all program benefits and communications for your group will be terminated.
-
-#### Where can I find past communications?
-
-Past communications and quarterly call presentations can be found at [Group Leader Resources](https://azuretechcommunity.github.io/GroupLeaderResources/) on GitHub.
 
 ## Group Information 
 
