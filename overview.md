@@ -12,23 +12,18 @@ ms.date: 11/02/2022
 
 Azure Data Community is a global network of local user groups that are officially affiliated with Microsoft. Azure Data Community Networ is comprised of groups where members connect, learn, and engage one another on topics related to the Microsoft Intelligent Data Platform.
 
-:::row:::
-   :::column span="1":::
-      **Connect**
+####      **Connect**
 
       Meet data professionals of all skill levels and backgrounds. Azure Data Community events help you grow your professional network, make new friends, and get inspired
-   :::column-end:::
-   :::column span="1":::
-      **Learn**
+
+ ####     **Learn**
 
       Explore and learn more about technical topics that grow your skills, advance your career, and help you solve today’s real-world problems in new ways. Most importantly, learn with people who love technology as much as you do.
-   :::column-end:::
-   :::column span="1":::
-      **Engage**
+
+
+####      **Engage**
 
       Whether you're working on an individual passion project, a cross-group collaboration, a hands-on lab, or a hackathon, Azure Data Community offers a place to showcase what you’ve learned, help others along the way, and contribute back to the broader community.
-   :::column-end:::
-:::row-end:::
 
 ## Explore
 
