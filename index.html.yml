@@ -1,0 +1,42 @@
+### YamlMime:Landing
+
+# On-page H1
+title: Azure Tech Groups
+summary: |
+  The Azure Tech Groups program connects technical user groups from across the globe with resources and tools to expand their knowledge of Microsoft technologies.
+# Search & metrics meta
+metadata:
+  title: Azure Data Tech Groups
+  description: Azure Data Tech Groups program
+  author: Rie Merritt
+  ms.author: riirish
+  ms.date: 09/14/2022
+  ms.topic: landing-page
+
+landingContent:
+  - title: Program overview
+    linkLists:
+      - linkListType: overview
+        links:
+          - text: What are Azure Data Tech Groups?
+            url: overview.md
+          - text: Program guide
+            url: program-guide.md
+  - title: Frequently asked questions
+    linkLists:
+      - linkListType: reference
+        links:
+          - text: How to join
+            url: program-guide.md#joining-the-program
+          - text: Common questions
+            url: faq.md
+  - title: Resources
+    linkLists:
+      - linkListType: reference
+        links:
+          - text: Meeting resources
+            url: https://github.com/AzureTechCommunity
+          - text: Group Leader Resources on GitHub
+            url: https://azuretechcommunity.github.io/GroupLeaderResources/
+          - text: Find community event speakers
+            url: https://techcommunity.microsoft.com/t5/community-events-speakers/bd-p/CommunityEventsSpeakers 

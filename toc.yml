@@ -1,0 +1,17 @@
+  items:
+  - name: Azure Tech Groups
+    href: index.html.yml
+    pdf_name: Azure Tech Groups program
+  
+  - name: Get started
+    items:
+    - name: Program overview
+      href: overview.md
+    - name: Program guide
+      href: program-guide.md
+  - name: FAQ
+    href: faq.md
+  - name: Code of conduct
+    href: code-of-conduct.md
+  - name: Terms and conditions
+    href: https://docs.microsoft.com/legal/azure-tech-groups/azure-tech-groups-terms-and-conditions?toc=/azure-tech-groups/toc.json&bc=/azure-tech-groups//breadcrumb/toc.json
