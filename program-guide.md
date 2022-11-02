@@ -84,7 +84,7 @@ Conduct issues seldom arise. But when they do, they are often very public and ve
 
 A code of conduct should be displayed on your group landing page or website. If you don't currently have one, review the following examples:
 
-- Azure Tech Groups [Code of Conduct](code-of-conduct.md)
+- Azure Data Community [Code of Conduct](code-of-conduct.md)
 - Microsoft Tech Community [Code of Conduct](https://techcommunity.microsoft.com/t5/community-policies/code-of-conduct/ta-p/1235728)
 
 ### Fee-free experience
