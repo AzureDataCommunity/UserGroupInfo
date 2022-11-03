@@ -51,4 +51,4 @@ Throughout each interaction:
 
 ### Reporting
 
-Please report any concerns, suspicious activity, or disruptive behavior to the Azure Tech Groups team at ms-data@microsoft.com..
+Please report any concerns, suspicious activity, or disruptive behavior to the Azure Data Community team at ms-data@microsoft.com..
