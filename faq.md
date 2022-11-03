@@ -33,7 +33,7 @@ You may stop being the group leader, or may make leadership changes at any time 
 
 #### How do I communicate leadership changes for my group?
 
-If you or your co-leader is leaving your group, but the group would like to remain part of the Azure Tech Groups program, email ms-data@microsoft.com.
+If you or your co-leader is leaving your group, but the group would like to remain part of the Azure Data Community program, email ms-data@microsoft.com.
 Read more about leadership changes in the [program guide](program-guide.md#leadership-changes).
 
 #### May I charge a fee to members?
