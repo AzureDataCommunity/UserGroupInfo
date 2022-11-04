@@ -10,7 +10,8 @@ ms.date: 11/02/2022
 
 # Azure Data Community program overview
 
-Azure Data Community is a global network of local user groups that are officially affiliated with Microsoft. Azure Data Community Network is comprised of groups where members connect, learn, and engage one another on topics related to the Microsoft Intelligent Data Platform.
+Azure Data Community is a global network of local user groups that are officially affiliated with Microsoft. Azure Data Community Network is comprised of groups where members connect, learn, and engage one another on topics related to the Microsoft Intelligent Data Platform.  The Azure Data Community is the foundation we use to support Azure Data’s efforts in the community.  A collection of Data Platform MVPs, PG-Community engagement, ~89,000 members in 146 user groups, a community landing page, social media, conference support, training, videos, tech communities and tech forums, this effort collectively reaches millions of data professionals globally. 
+
 
 ####      **Connect**
 
