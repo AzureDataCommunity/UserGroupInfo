@@ -40,4 +40,4 @@ As a member of the Azure Data Community program, you can receive support, inspir
 
 To become a member of the Azure Data Community program, groups and organizers must comply with our program and community guidelines. Learn more about the [program requirements](program-guide.md#program-requirements).
 
-[Apply now](https://aka.ms/DataCommunity/Apply).
+## [Apply now](https://aka.ms/AzureDataCommunity/Apply).
