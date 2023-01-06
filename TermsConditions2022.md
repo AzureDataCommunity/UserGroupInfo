@@ -15,7 +15,7 @@ The Azure Data Community is Community Owned and Microsoft empowered. Microsoft i
 ### Terms and Conditions for group leaders
 
 ### I have read the following requirements and agree to follow them.
-_
+
 *I have a primary organizer and co-organizer 
 
 *I will not charge other members a fee to attend group meetings, except in cases in which the venue and/or hosting costs (e.g., food and beverages) are passed through to members.
